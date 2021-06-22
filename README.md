@@ -1,2 +1,2 @@
-# suse-cloud-native-scholar
-SUSE Cloud Native Scholarhip
+# SUSE Cloud Native Scholarship
+
